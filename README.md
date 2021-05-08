@@ -1,2 +1,2 @@
 # CipherusPrime
-Official Repo of Profile CipherusPrime.
+Official Profile Repo of CipherusPrime.
